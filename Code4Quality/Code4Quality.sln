@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Code4Quality", "Code4Quality\Code4Quality.vcxproj", "{109A47D8-029C-462C-BB3A-523CE751D5A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E9B04474-20B6-43DB-BE59-9F9298F7872A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{109A47D8-029C-462C-BB3A-523CE751D5A9}.Debug|x64.ActiveCfg = Debug|x64
+		{109A47D8-029C-462C-BB3A-523CE751D5A9}.Debug|x64.Build.0 = Debug|x64
+		{109A47D8-029C-462C-BB3A-523CE751D5A9}.Release|x64.ActiveCfg = Release|x64
+		{109A47D8-029C-462C-BB3A-523CE751D5A9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0C00C5B-F078-484C-A39F-4E64AA8C58AE}
+	EndGlobalSection
+EndGlobal
